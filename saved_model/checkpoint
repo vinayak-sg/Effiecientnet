@@ -1,0 +1,2 @@
+model_checkpoint_path: "modelefficientnet-b0"
+all_model_checkpoint_paths: "modelefficientnet-b0"
